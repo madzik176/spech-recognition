@@ -1,4 +1,4 @@
-# spech-recognition
+# Speech recognition project
 
 Project for "Głosowa łączność z komputerem"
 
